@@ -1,1 +1,1 @@
-Here is a private repository for sources like assignments pdf and so on.
+Here is a private repository for math assignments in pdf and so on.
